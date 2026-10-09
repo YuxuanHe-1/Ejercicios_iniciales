@@ -1,0 +1,8 @@
+a = input()
+b = input()
+print(f"La suma de operador1 y operador2 es: {a + b}")
+print(f"La resta de operador1 y operador2 es: {a - b}")
+print(f"La multiplicación de operador1 y operador2 es: {a * b}")
+print(f"La división de operador1 y operador2 es: {round(a / b, 2)}")
+print(f"El exponente de operador1 y operador2 es: {a ** b}")
+print(f"La división entera de operador1 y operador2 es: {a // b}")

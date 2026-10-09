@@ -1,0 +1,6 @@
+lados = int(input())
+b1 = int(input())
+b2 = int(input())
+h = int(input())
+print(f"área: {(b1 + b2) * h / 2}")
+print(f"perimetro:{lados * 2 + b1 + b2}")

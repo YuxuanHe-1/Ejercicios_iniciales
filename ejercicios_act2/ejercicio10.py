@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+print(f"el cociente es {a / b}")
+print(f"el resto es {a % b}")
+print(f"el dividendo es {"par" if a % 2 == 0 else "impar"}")
